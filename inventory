@@ -1,0 +1,6 @@
+192.168.10.1	#pfesense
+192.168.10.4	#switch
+192.168.10.6	#unifi
+192.168.10.15	#proxmox host 1
+192.168.10.35	#dashboard
+192.168.10.36	#new dashboard
